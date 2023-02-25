@@ -1,5 +1,5 @@
 [package]
-name = "permutation-util"
+name = "cp-util"
 version = "0.1.0"
 edition = "2018"
 license = "CC0-1.0"

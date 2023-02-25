@@ -1,8 +1,0 @@
-[package]
-name = "heap-util"
-version = "0.1.0"
-edition = "2018"
-license = "CC0-1.0"
-publish = false
-
-[dependencies]
